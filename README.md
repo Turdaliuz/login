@@ -2,6 +2,8 @@
 
 Login page test
 
+![GitHub Logo](/assets/rasm.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
