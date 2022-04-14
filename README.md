@@ -1,6 +1,8 @@
 # login
 
-Login page test
+Telefon raqami orqali dasturga kirish
+
+![Screen1](assets/img_1.png)
 
 ## Getting Started
 
