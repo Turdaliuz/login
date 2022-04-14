@@ -39,8 +39,6 @@ class _LoginScreenState extends State<LoginScreen> {
     setState(() {
       showLoading = true;
     });
-
-
     
     try {
       final authCredential =
