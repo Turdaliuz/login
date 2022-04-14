@@ -40,6 +40,8 @@ class _LoginScreenState extends State<LoginScreen> {
       showLoading = true;
     });
 
+
+    
     try {
       final authCredential =
       await _auth.signInWithCredential(phoneAuthCredential);
