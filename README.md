@@ -3,6 +3,7 @@
 Telefon raqami orqali dasturga kirish
 
 ![Screen1](assets/img_1.png)
+![Screen1](assets/img_2.png)
 
 ## Getting Started
 
